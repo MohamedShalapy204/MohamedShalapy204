@@ -6,10 +6,7 @@
 
 <img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Embedded+Systems+Enthusiasm;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
-</p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&width=435&lines=The+1000+mils+route+;starts+with+one+step;be+patient+be+hard+that's+what+you+need)](https://git.io/typing-svg)
 
 👋 Hi, I’m Mohamed Shalapy — a passionate Ai & Cloud enthusiast.
 
