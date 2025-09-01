@@ -4,7 +4,7 @@
    <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </h1>
 
-<img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
+<img width="250" align="right" src="https://substackcdn.com/image/fetch/$s_!dkMj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00180327-2845-4401-bf29-3b77292b83e8_1276x936.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&width=435&lines=The+1000+mils+route+;starts+with+one+step;be+patient+be+hard+that's+what+you+need)](https://git.io/typing-svg)
 
