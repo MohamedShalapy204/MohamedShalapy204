@@ -44,10 +44,7 @@
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGalal-2&layout=compact&theme=outrun&cache_seconds=28800&v=5"
-       alt="Top Languages" style="margin: 0 12px;" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&layout=compact&show_icons=true&theme=outrun&cache_seconds=28800&v=5"
-       alt="GitHub Stats" style="margin: 0 12px;" />
+
 
 <br>
 
